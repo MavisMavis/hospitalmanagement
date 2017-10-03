@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0adca127-a481-4dc7-811d-641779e8f952" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/chartjs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/chartjs2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/e_commerce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/echarts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/fixed_footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/fixed_sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form_advanced.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form_upload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/form_wizards.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/general_elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/glyphicons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/index2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/index3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/level2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/media_gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/morisjs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/other_charts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/page_403.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/page_404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/page_500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/plain_page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/pricing_tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/project_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/tables_dynamic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/typography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/widgets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/production/template/xx.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/user_login.html" afterPath="$PROJECT_DIR$/production/user_login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/plain_page.html" afterPath="$PROJECT_DIR$/production/plain_page.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,10 +36,11 @@
       <file leaf-file-name="plain_page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/production/plain_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state relative-caret-position="614">
+              <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
               <folding>
-                <marker date="1507041739590" expanded="false" signature="2775:5065" ph="..." />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1507044477614" expanded="false" signature="2725:5015" ph="..." />
               </folding>
             </state>
           </provider>
@@ -96,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/production/user_login.html" />
+        <option value="$USER_HOME$/Downloads/if_8_375259.svg" />
         <option value="$PROJECT_DIR$/production/plain_page.html" />
       </list>
     </option>
@@ -155,6 +115,12 @@
               <item name="Hospital Management-Agile" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="production" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Hospital Management-Agile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital Management-Agile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="production" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -197,12 +163,12 @@
       <workItem from="1505973152428" duration="93000" />
       <workItem from="1507026609179" duration="355000" />
       <workItem from="1507036886385" duration="2577000" />
-      <workItem from="1507040636047" duration="1096000" />
+      <workItem from="1507040636047" duration="3802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="6827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -360,12 +326,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/if_8_375259.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="5" column="967" lean-forward="false" selection-start-line="5" selection-start-column="967" selection-end-line="5" selection-end-column="967" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/production/plain_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        <state relative-caret-position="614">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
           <folding>
-            <marker date="1507041739590" expanded="false" signature="2775:5065" ph="..." />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1507044477614" expanded="false" signature="2725:5015" ph="..." />
           </folding>
         </state>
       </provider>
